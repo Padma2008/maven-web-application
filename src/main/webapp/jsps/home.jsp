@@ -32,7 +32,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<span style="font-weight: bold;">
 		DevOps Online Training, 
 		Trainer : Jeevan Dandoji,
-		student : Padmavathi
+		student : Padmavathi,
 		kadapa-516003.
 		Andra Pradesh.
 		chennurupadmavathi@gmail.com
